@@ -1,2 +1,0 @@
-# Giyahban
-Powered Plant Disease
